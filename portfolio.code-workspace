@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../Web Dev-Y3/Assignment"
+	},
+	{
+		"path": "../Bootstrap.pratice/soc-plantshop"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "portfolio"
+  }
+}
